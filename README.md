@@ -1,2 +1,0 @@
-# uzcms
-uzbeklarni cms si
